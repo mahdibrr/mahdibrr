@@ -80,16 +80,16 @@ Building a **FastAPI-based dispatching platform** with real-time features, datab
 I'm always open to **new projects, collaborations, or freelance opportunities**.  
 If you’re looking for a developer who blends **technical mastery** with **design sensibility**, I’d love to connect.
 
-📫 **Email:** [Send me a message](mailto:youremail@example.com)  
+📫 **Email:** [Send me a message](mailto:mahdi.benrhouma@sesame.com.tn)  
 🌐 **Portfolio:** [Your Portfolio Link](https://your-portfolio-link.com)  
-💼 **LinkedIn:** [linkedin.com/in/mahdibenrhouma](#)  
-🐙 **GitHub:** [github.com/mahdibenrhouma](#)
+💼 **LinkedIn:** [https://www.linkedin.com/in/mahdi-ben-rhouma-180971357/](#)  
+🐙 **GitHub:** [github.com/mahdibrr](#)
 
 ---
 
 ## 📊 GitHub Stats
-![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdibenrhouma&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdibenrhouma&layout=compact&theme=tokyonight)
+![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdibrr&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdibrr&layout=compact&theme=tokyonight)
 
 ---
 
