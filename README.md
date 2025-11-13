@@ -88,8 +88,8 @@ If you’re looking for a developer who blends **technical mastery** with **desi
 ---
 
 ## 📊 GitHub Stats
-![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdibrr&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdibrr&layout=compact&theme=tokyonight)
+![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahdiBenRhouma&show_icons=true&theme=tokyonight&count_private=true&token=mahdi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiBenRhouma&layout=compact&theme=tokyonight&token=mahdi)
 
 ---
 
