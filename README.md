@@ -81,7 +81,7 @@ I'm always open to **new projects, collaborations, or freelance opportunities**.
 If you’re looking for a developer who blends **technical mastery** with **design sensibility**, I’d love to connect.
 
 📫 **Email:** [Send me a message](mailto:mahdi.benrhouma@sesame.com.tn)  
-🌐 **Portfolio:** (https://www.mahdibr.online/)  
+🌐 **Portfolio:** https://www.mahdibr.online/
 💼 **LinkedIn:** [https://www.linkedin.com/in/mahdi-ben-rhouma-180971357/](#)  
 🐙 **GitHub:** [github.com/mahdibrr](#)
 
