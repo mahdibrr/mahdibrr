@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-mahdi.com)
 [![Blog](https://img.shields.io/badge/iloveblogs.blog-7C3AED?style=for-the-badge&logo=rss&logoColor=white)](https://www.iloveblogs.blog)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fafa91761@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahdi.benrhouma@sesame.com.tn)
 [![Followers](https://img.shields.io/github/followers/mahdibrr?style=for-the-badge&color=7C3AED&labelColor=1a1a2e&label=GitHub)](https://github.com/mahdibrr)
 
 </div>
@@ -153,16 +153,21 @@ Web-based 3D floor plan editor built for a real estate / interior design use cas
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahdibrr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdibrr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahdibrr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&cache_seconds=86400"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdibrr&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=mahdibrr&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" alt="GitHub Streak"/>
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdibrr&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7C3AED&line=7C3AED&point=ffffff&area=true&area_color=7C3AED" alt="Activity Graph" width="100%"/>
+
+<br/>
+
+**Tech stack I actually ship with:**
+
+[![Skills](https://skillicons.dev/icons?i=ts,js,nextjs,react,supabase,postgres,java,spring,python,tailwind,vercel,githubactions,androidstudio,figma&perline=7)](https://skillicons.dev)
 
 </div>
 
@@ -196,7 +201,7 @@ Web-based 3D floor plan editor built for a real estate / interior design use cas
 
 [![Portfolio](https://img.shields.io/badge/portfolio--mahdi.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-mahdi.com)
 [![Blog](https://img.shields.io/badge/iloveblogs.blog-7C3AED?style=for-the-badge&logo=rss&logoColor=white)](https://www.iloveblogs.blog)
-[![Email](https://img.shields.io/badge/fafa91761%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fafa91761@gmail.com)
+[![Email](https://img.shields.io/badge/fafa91761%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahdi.benrhouma@sesame.com.tn)
 
 *Open to freelance projects, internships, and interesting open-source collaborations.*
 
