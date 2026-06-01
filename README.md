@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-mahdi.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.mahdibr.online)
 [![Blog](https://img.shields.io/badge/iloveblogs.blog-7C3AED?style=for-the-badge&logo=rss&logoColor=white)](https://www.iloveblogs.blog)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahdi.benrhouma@sesame.com.tn)
 [![Followers](https://img.shields.io/github/followers/mahdibrr?style=for-the-badge&color=7C3AED&labelColor=1a1a2e&label=GitHub)](https://github.com/mahdibrr)
@@ -199,7 +199,7 @@ Web-based 3D floor plan editor built for a real estate / interior design use cas
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/portfolio--mahdi.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-mahdi.com)
+[![Portfolio](https://img.shields.io/badge/portfolio--mahdi.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.mahdibr.online)
 [![Blog](https://img.shields.io/badge/iloveblogs.blog-7C3AED?style=for-the-badge&logo=rss&logoColor=white)](https://www.iloveblogs.blog)
 [![Email](https://img.shields.io/badge/fafa91761%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahdi.benrhouma@sesame.com.tn)
 
