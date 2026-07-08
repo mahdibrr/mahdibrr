@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mahdi%20Ben%20Rhouma&fontSize=48&fontColor=ffffff&desc=Full-stack%20developer%20building%20backend%20APIs%20and%20real-time%20web%20apps&descSize=18&descAlignY=72&animation=fadeIn" alt="header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mahdi%20Ben%20Rhouma&fontSize=46&fontColor=ffffff&desc=Backend-oriented%20full-stack%20developer%20building%20APIs%20and%20real-time%20web%20apps&descSize=16&descAlignY=70&animation=fadeIn" alt="header" width="100%"/>
 </p>
 
 <p align="center">
@@ -9,6 +9,8 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/mahdibrr"><img src="https://img.shields.io/badge/Available%20for-apprenticeship%20%2F%20alternance-22C55E?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Available for apprenticeship"/></a>
+  <br/><br/>
   <a href="https://mahdibr.online">
     <img src="https://img.shields.io/badge/Portfolio-mahdibr.online-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
@@ -34,6 +36,15 @@ I'm a full-stack developer from Tunisia, recently graduated in **Computer Scienc
 
 My strongest areas are **Python, FastAPI, Spring Boot, TypeScript, PostgreSQL, Redis**, and real-time features with **WebSocket**. I'm currently looking for an **apprenticeship / alternance** in France where I can contribute to real products, learn from experienced engineers, and keep improving as a backend-oriented full-stack developer.
 
+<table>
+  <tr><td>📍&nbsp;&nbsp;Location</td><td>Tunis, Tunisia 🇹🇳</td></tr>
+  <tr><td>🎓&nbsp;&nbsp;Education</td><td>B.Sc. Computer Science &amp; Multimedia — Université Sesame (2026, PFE defended with distinction)</td></tr>
+  <tr><td>🛠️&nbsp;&nbsp;Focus</td><td>Backend systems, APIs, real-time features, automation</td></tr>
+  <tr><td>🧰&nbsp;&nbsp;Core stack</td><td>Python · FastAPI · Spring Boot · TypeScript · PostgreSQL · Redis · WebSocket</td></tr>
+  <tr><td>🎯&nbsp;&nbsp;Looking for</td><td>Apprenticeship / alternance in France</td></tr>
+  <tr><td>🗣️&nbsp;&nbsp;Languages</td><td>French · English · Arabic</td></tr>
+</table>
+
 ---
 
 ## Proof of Work
@@ -43,25 +54,27 @@ My strongest areas are **Python, FastAPI, Spring Boot, TypeScript, PostgreSQL, R
 <table>
   <tr>
     <td align="center" width="25%">
-      <h2>140+</h2>
+      <h3>📄 140+</h3>
       <sub>indexed technical pages<br/>through an automated workflow</sub>
     </td>
     <td align="center" width="25%">
-      <h2>Backend</h2>
+      <h3>⚙️ Backend</h3>
       <sub>FastAPI &amp; Spring Boot<br/>APIs and real-time features</sub>
     </td>
     <td align="center" width="25%">
-      <h2>Full-stack</h2>
+      <h3>🖥️ Full-stack</h3>
       <sub>React / Next.js / TypeScript<br/>PostgreSQL · Redis · WebSocket</sub>
     </td>
     <td align="center" width="25%">
-      <h2>Open to</h2>
+      <h3>🎯 Open to</h3>
       <sub>alternance in France<br/>(apprenticeship)</sub>
     </td>
   </tr>
 </table>
 
 I've worked on backend &amp; API projects with FastAPI and Spring Boot, full-stack apps with React / Next.js / TypeScript, and authentication, PostgreSQL, Redis, and WebSocket workflows. I also maintain a few open-source resources and personal projects.
+
+<sub><b>Legend:</b> 🟢 Live · 🟡 In development · 🔵 Open-source · ⚪ Source private</sub>
 
 ---
 
@@ -81,7 +94,7 @@ I've worked on backend &amp; API projects with FastAPI and Spring Boot, full-sta
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       </p>
-      <sub><b>Status:</b> backend project · <b>Source:</b> not yet published</sub>
+      <sub><b>Status:</b> ⚪ backend project · Source not yet published</sub>
     </td>
     <td width="50%" valign="top">
       <h3>🏥 MedSys — Medical Information System</h3>
@@ -93,7 +106,7 @@ I've worked on backend &amp; API projects with FastAPI and Spring Boot, full-sta
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/REST%20API-6DB33F?style=flat-square&logoColor=white"/>
       </p>
-      <sub><b>Status:</b> in production · <b>Source:</b> private</sub>
+      <sub><b>Status:</b> 🟢 in production · ⚪ source private</sub>
     </td>
   </tr>
   <tr>
@@ -107,7 +120,7 @@ I've worked on backend &amp; API projects with FastAPI and Spring Boot, full-sta
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       </p>
       <a href="https://www.travailenhauteur.tn"><img src="https://img.shields.io/badge/Live-travailenhauteur.tn-7C3AED?style=flat-square"/></a>
-      <br/><sub><b>Status:</b> live · <b>Source:</b> private (client codebase)</sub>
+      <br/><sub><b>Status:</b> 🟢 live · ⚪ source private (client codebase)</sub>
     </td>
     <td width="50%" valign="top">
       <h3>🧺 Ghassla — Laundry Logistics Platform</h3>
@@ -119,7 +132,7 @@ I've worked on backend &amp; API projects with FastAPI and Spring Boot, full-sta
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white"/>
       </p>
-      <sub><b>Status:</b> in development · <b>Source:</b> private (client codebase)</sub>
+      <sub><b>Status:</b> 🟡 in development · ⚪ source private (client codebase)</sub>
     </td>
   </tr>
   <tr>
@@ -135,7 +148,7 @@ I've worked on backend &amp; API projects with FastAPI and Spring Boot, full-sta
       <a href="https://www.iloveblogs.blog"><img src="https://img.shields.io/badge/Live-iloveblogs.blog-7C3AED?style=flat-square"/></a>
       &nbsp;
       <a href="https://github.com/mahdibrr/nextjs-seo-content-engine"><img src="https://img.shields.io/badge/Source%20engine-nextjs--seo--content--engine-0d1117?style=flat-square&logo=github"/></a>
-      <br/><sub><b>Status:</b> live · blog repo private, engine open-sourced</sub>
+      <br/><sub><b>Status:</b> 🟢 live · 🔵 engine open-sourced · blog repo private</sub>
     </td>
     <td width="50%" valign="top">
       <h3>📋 <a href="https://github.com/mahdibrr/awesome-nextjs-supabase">awesome-nextjs-supabase</a></h3>
@@ -147,16 +160,41 @@ I've worked on backend &amp; API projects with FastAPI and Spring Boot, full-sta
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       </p>
       <a href="https://github.com/mahdibrr/awesome-nextjs-supabase"><img src="https://img.shields.io/badge/Source-GitHub-0d1117?style=flat-square&logo=github"/></a>
-      <br/><sub><b>Status:</b> active · 4★ · open-source</sub>
+      <br/><sub><b>Status:</b> 🔵 open-source · 4★ · active</sub>
     </td>
   </tr>
 </table>
 
-> Other projects: 🏠 <a href="https://github.com/mahdibrr/Mestir-plan-3d">Mestir-plan-3d</a> — a browser-based 3D floor plan editor (Three.js, WebGL, <a href="https://mestir-plan-3d.vercel.app">live demo</a>, open-source).
+> Other projects: 🏠 <a href="https://github.com/mahdibrr/Mestir-plan-3d">Mestir-plan-3d</a> — a browser-based 3D floor plan editor (Three.js, WebGL, <a href="https://mestir-plan-3d.vercel.app">live demo</a>, 🔵 open-source).
 
 ---
 
 ## Stack
+
+<p>
+  <b>Backend</b><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST-6DB33F?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logoColor=white"/>
+</p>
+<p>
+  <b>Frontend</b><br/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+<p>
+  <b>Data &amp; Tooling</b><br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -182,7 +220,8 @@ Backend-oriented full-stack developer working with FastAPI, Spring Boot, Postgre
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdibrr&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&cache_seconds=86400" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdibrr&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&cache_seconds=86400" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdibrr&layout=compact&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="Top Languages" height="170"/>
 </p>
 
 <p align="center">
