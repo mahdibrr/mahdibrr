@@ -148,7 +148,7 @@ I've worked on backend &amp; API projects with FastAPI and Spring Boot, full-sta
       <a href="https://www.iloveblogs.blog"><img src="https://img.shields.io/badge/Live-iloveblogs.blog-7C3AED?style=flat-square"/></a>
       &nbsp;
       <a href="https://github.com/mahdibrr/nextjs-seo-content-engine"><img src="https://img.shields.io/badge/Source%20engine-nextjs--seo--content--engine-0d1117?style=flat-square&logo=github"/></a>
-      <br/><sub><b>Status:</b> 🟢 live · 🔵 engine open-sourced · blog repo private</sub>
+      <br/><sub><b>Status:</b> 🟢 live · 🔵 first engine (June 2026) open-sourced · current pipeline private</sub>
     </td>
     <td width="50%" valign="top">
       <h3>📋 <a href="https://github.com/mahdibrr/nextjs-supabase-production-incidents">nextjs-supabase-production-incidents</a></h3>
