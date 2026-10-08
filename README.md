@@ -138,8 +138,8 @@ I've worked on backend &amp; API projects with FastAPI and Spring Boot, full-sta
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/mahdibrr/nextjs-seo-content-engine">iloveblogs.blog — AI-assisted content workflow</a></h3>
-      <p>Automation and content workflow project using AI-assisted drafting, GitHub Actions, Telegram review, and search indexing. The project helped publish <b>140+ indexed technical pages</b> from a cold domain.</p>
-      <p><b>Tech stack:</b> Next.js, GitHub Actions, Telegram Bot API, automation, SEO</p>
+      <p>Fixes for real JavaScript / TypeScript errors (Next.js, Supabase, PostgreSQL, Node, Docker). Claude Code drafts; deterministic gates check grounding, citations and Docker reproductions before anything ships; GitHub Actions sync Search Console and ping IndexNow. The project helped publish <b>140+ indexed technical pages</b> from a cold domain.</p>
+      <p><b>Tech stack:</b> Next.js, GitHub Actions, Cloudflare Pages, PostgreSQL, SEO</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -151,7 +151,7 @@ I've worked on backend &amp; API projects with FastAPI and Spring Boot, full-sta
       <br/><sub><b>Status:</b> 🟢 live · 🔵 engine open-sourced · blog repo private</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>📋 <a href="https://github.com/mahdibrr/awesome-nextjs-supabase">awesome-nextjs-supabase</a></h3>
+      <h3>📋 <a href="https://github.com/mahdibrr/nextjs-supabase-production-incidents">nextjs-supabase-production-incidents</a></h3>
       <p>Open-source debugging resource for Next.js and Supabase issues after deployment: RLS silent failures, SSR session loss, Stripe webhooks, cache invalidation. Symptom-first incident index with SQL assets and checklists.</p>
       <p><b>Tech stack:</b> Next.js, Supabase, PostgreSQL, TypeScript</p>
       <p>
@@ -159,13 +159,35 @@ I've worked on backend &amp; API projects with FastAPI and Spring Boot, full-sta
         <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       </p>
-      <a href="https://github.com/mahdibrr/awesome-nextjs-supabase"><img src="https://img.shields.io/badge/Source-GitHub-0d1117?style=flat-square&logo=github"/></a>
-      <br/><sub><b>Status:</b> 🔵 open-source · 4★ · active</sub>
+      <a href="https://github.com/mahdibrr/nextjs-supabase-production-incidents"><img src="https://img.shields.io/badge/Source-GitHub-0d1117?style=flat-square&logo=github"/></a>
+      <br/><sub><b>Status:</b> 🔵 open-source · 5★ · 2 external contributors merged</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩺 <a href="https://github.com/mahdibrr/dev-error-explainers">dev-error-explainers</a></h3>
+      <p>Paste a developer error, get the documented cause and ranked fixes: CORS, ESM/CommonJS, npm ERESOLVE, ChunkLoadError, Postgres connection and <code>DATABASE_URL</code>, Next.js build errors. Offline and deterministic: no LLM, no network, zero dependencies. One engine, four interfaces: library, CLI, GitHub Action and MCP server.</p>
+      <p>Listed in <a href="https://github.com/punkpeye/awesome-mcp-servers">awesome-mcp-servers</a> and the official MCP Registry · rated A on <a href="https://glama.ai/mcp/servers/mahdibrr/dev-error-explainers">Glama</a> · 617 tests on Node 20 / 22 / 24 · npm provenance.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MCP-0d1117?style=flat-square"/>
+      </p>
+      <a href="https://www.npmjs.com/package/dev-error-explainers"><img src="https://img.shields.io/npm/v/dev-error-explainers?style=flat-square"/></a>
+      &nbsp;
+      <a href="https://www.iloveblogs.blog/tools"><img src="https://img.shields.io/badge/Try%20it-iloveblogs.blog%2Ftools-7C3AED?style=flat-square"/></a>
+      <br/><sub><b>Status:</b> 🟢 published · 🔵 open-source (MIT)</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏠 <a href="https://github.com/mahdibrr/Mestir-plan-3d">Mestir-plan-3d</a></h3>
+      <p>Browser-based 3D floor plan editor: drag-and-drop room layout with real-time rendering.</p>
+      <p><b>Tech stack:</b> Three.js, WebGL, JavaScript</p>
+      <a href="https://mestir-plan-3d.vercel.app"><img src="https://img.shields.io/badge/Live-demo-7C3AED?style=flat-square"/></a>
+      <br/><sub><b>Status:</b> 🟢 live demo · 🔵 open-source</sub>
     </td>
   </tr>
 </table>
 
-> Other projects: 🏠 <a href="https://github.com/mahdibrr/Mestir-plan-3d">Mestir-plan-3d</a> — a browser-based 3D floor plan editor (Three.js, WebGL, <a href="https://mestir-plan-3d.vercel.app">live demo</a>, 🔵 open-source).
 
 ---
 
